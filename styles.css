@@ -114,3 +114,24 @@ footer p { margin-bottom: 8px; }
     .catalogo { grid-template-columns: 1fr; }
     .jumbotron h2 { font-size: 28px; }
 }
+header {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+header nav {
+    margin-left: auto;
+}
+.logo {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    border-radius: 50%;
+    display: block;
+    margin: 0;
+    margin-right: auto;
+    background-color: rgba(238, 169, 203, 0.86);
+    padding: 3px;
+    box-shadow: 0 0 8px rgba(224, 151, 186, 0.896);
+}
