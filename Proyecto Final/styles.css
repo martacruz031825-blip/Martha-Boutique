@@ -11,7 +11,7 @@ body {
 }
 
 header {
-    background-color: #f186aa;
+    background-color: #d97798;
     color: white;
     padding: 20px;
     display: flex;
@@ -44,7 +44,7 @@ nav a {
 }
 .jumbotron button {
     padding: 10px 20px;
-    background-color: #c28197;
+    background-color: #d97798;
     color: white;
     border: none;
     border-radius: 5px;
